@@ -1,0 +1,1 @@
+rm -f .next && npm install && npm run build
