@@ -8,7 +8,8 @@
     "start": "next start -- --port $PORT",
     "next-install":"sh ./scripts/next-install.sh",
     "generate-zip":"sh ./scripts/generate-zip.sh",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "echo 'test running'"
   },
   "engines": {
     "node": "16"
